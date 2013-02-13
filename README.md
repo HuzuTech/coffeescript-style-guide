@@ -326,7 +326,7 @@ alert("#{key} = #{value}") for key, value of object
 
 `or` is preferred over `||`.
 
-`is` is preferred over `==`.
+`is` is preferred over `===`.
 
 `not` is preferred over `!`.
 
